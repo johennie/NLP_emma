@@ -14,9 +14,5 @@ Demonstrates tokenization, POS tagging, and a few simple narrative-adjacent metr
   - reports counts (verbs, adverbs, nouns, adjectives)
   - basic frequency + readability-ish numbers
 
-## Usage
-```bash
-python3 -m venv .venv && source .venv/bin/activate
-pip install nltk
-python nltk_example.py
+
 
