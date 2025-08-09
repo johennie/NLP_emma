@@ -1,0 +1,29 @@
+emma_ch1_metrics
+Copyright 2025 Johennie Helton
+
+This product includes software developed as part of the 
+emma_ch1_metrics project.
+
+emma_ch1_metrics is a learning exercise inspired by 
+"Natural Language Processing with Python" (Bird, Klein, Loper).
+It uses NLTK's built-in Gutenberg corpus (austen-emma.txt) 
+to compute simple per-sentence metrics for Jane Austen's *Emma* (Chapter I).
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, 
+software distributed under the License is distributed on an 
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
+either express or implied. See the License for the specific 
+language governing permissions and limitations under the License.
+
+Citation:
+If you use this code in academic work, please cite as:
+
+helton.johennie. (2025). emma_ch1_metrics: NLTK-based sentence metrics 
+for Jane Austen's *Emma* (Chapter I). GitHub repository:
+https://github.com/johennie/NLP_emma
